@@ -50,10 +50,11 @@
     <Compile Include="Syntax.fs" />
     <Compile Include="Sorting.fs" />
     <Compile Include="DownLoadWebPage.fs" />
+    <Compile Include="TypeSafe.fs" />
     <None Include="App.config" />
     <Compile Include="ShoppingCart.fs" />
     <Compile Include="Calculator.fs" />
-    <Compile Include="TypeSafe.fs" />
+    <Compile Include="Async.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
