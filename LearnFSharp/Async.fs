@@ -117,7 +117,7 @@ let sites =
       "http://www.yahoo.com" ]
 
 sites
-|> List.map fetchUrl sites
+|> List.map fetchUrl
 |> ignore
 
 sites

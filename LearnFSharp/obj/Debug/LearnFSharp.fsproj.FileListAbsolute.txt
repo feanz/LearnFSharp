@@ -6,3 +6,4 @@ C:\Users\Richard\Projects\LearnFSharp\LearnFSharp\bin\Debug\FSharp.Core.dll
 C:\Users\Richard\Projects\LearnFSharp\LearnFSharp\bin\Debug\FSharp.Core.xml
 C:\Users\Richard\Projects\LearnFSharp\LearnFSharp\obj\Debug\LearnFSharp.exe
 C:\Users\Richard\Projects\LearnFSharp\LearnFSharp\obj\Debug\LearnFSharp.pdb
+C:\Users\Richard\Projects\LearnFSharp\LearnFSharp\bin\Debug\test.txt

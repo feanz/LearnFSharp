@@ -22,3 +22,4 @@ C:\Users\Richard\Projects\LearnFSharp\Tests\bin\Debug\xunit.core.pdb
 C:\Users\Richard\Projects\LearnFSharp\Tests\bin\Debug\xunit.core.xml
 C:\Users\Richard\Projects\LearnFSharp\Tests\obj\Debug\Tests.dll
 C:\Users\Richard\Projects\LearnFSharp\Tests\obj\Debug\Tests.pdb
+C:\Users\Richard\Projects\LearnFSharp\Tests\bin\Debug\test.txt
